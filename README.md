@@ -1,5 +1,5 @@
 **Cleanroom AI & IoT Decontamination System**
-![image](https://github.com/semiconfab/cleanroom/assets/162691177/119e5f7f-8e6c-4de4-b81e-9325b61f5046)
+<img src="https://github.com/semiconfab/cleanroom/assets/162691177/119e5f7f-8e6c-4de4-b81e-9325b61f5046" width="500" height="500">
 
 ## Hardware Requirements
 
